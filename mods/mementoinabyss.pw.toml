@@ -1,0 +1,8 @@
+name = "Memento In Abyss"
+filename = "mia-0.1.0-alpha.30-3.jar"
+side = "both"
+
+[download]
+url = "https://ci.ringlo.im/job/MementoInAbyss/job/1.21.1-NeoForge/3/artifact/build/libs/mia-0.1.0-alpha.30-3.jar"
+hash-format = "sha256"
+hash = "8b7ce3189f66e31efa693c9bae5ed8e3153693210f9630a294579256677b3236"

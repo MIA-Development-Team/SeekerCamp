@@ -1,0 +1,13 @@
+name = "Seeker Camp"
+author = "MementoInAbyss contributors"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6995dcf3abc929e146a81ee29c4de29e760d4dc196f3010011301d7dd1fb365d"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.250"
